@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/francais_trois_projet/static/css/main.b100e6da.chunk.css",
+    "main.js": "/francais_trois_projet/static/js/main.7d1adbdb.chunk.js",
+    "main.js.map": "/francais_trois_projet/static/js/main.7d1adbdb.chunk.js.map",
+    "runtime-main.js": "/francais_trois_projet/static/js/runtime-main.d47ccb66.js",
+    "runtime-main.js.map": "/francais_trois_projet/static/js/runtime-main.d47ccb66.js.map",
+    "static/js/2.66338377.chunk.js": "/francais_trois_projet/static/js/2.66338377.chunk.js",
+    "static/js/2.66338377.chunk.js.map": "/francais_trois_projet/static/js/2.66338377.chunk.js.map",
+    "index.html": "/francais_trois_projet/index.html",
+    "precache-manifest.c57bb8dbf2146f422f316fb02bec03fe.js": "/francais_trois_projet/precache-manifest.c57bb8dbf2146f422f316fb02bec03fe.js",
+    "service-worker.js": "/francais_trois_projet/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/francais_trois_projet/static/css/main.b100e6da.chunk.css.map",
+    "static/media/food.jpg": "/francais_trois_projet/static/media/food.664dec7f.jpg",
+    "static/media/lyon pic (1).jpg": "/francais_trois_projet/static/media/lyon pic (1).a0508258.jpg",
+    "static/media/trump.jpg": "/francais_trois_projet/static/media/trump.db8aed2e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d47ccb66.js",
+    "static/js/2.66338377.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.7d1adbdb.chunk.js"
+  ]
+}
